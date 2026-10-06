@@ -1,0 +1,51 @@
+{
+  "source": "pilot-staging/plugin/skills/pixel-art",
+  "snapshotDate": "2026-10-06",
+  "changes": "None. Skill, notes and visuals copied unchanged as an optional reference. See references/ATTRIBUTION.md for licensed tutorial material.",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "77251401ec8a4448cd65ad77361127c1f2e5dbad5bce5bec9648d0ca7a69bd17"
+    },
+    {
+      "path": "references/animation.md",
+      "sha256": "ed26a263fca31f2ae4102dc9304e0235b497702eca85e248f23ea5f645498fda"
+    },
+    {
+      "path": "references/ATTRIBUTION.md",
+      "sha256": "d82b6a7962d978607e3eb134547caaa8cb0c64217602d3ebbaa9414d4eb0e627"
+    },
+    {
+      "path": "references/delivery.md",
+      "sha256": "b0fbeaabcbd714e4a21453804c28c20723f26b3adefc66bc970e4fae55c1fe39"
+    },
+    {
+      "path": "references/readability.md",
+      "sha256": "42a85310eaa21f54f4196afcf5c80955e3389cfdfa1f3e88f3d88cf96a2d04ac"
+    },
+    {
+      "path": "references/sources.json",
+      "sha256": "5ab751a35a05da7ea532b89cd50170d60788abcf28730f10bb20dfed02fbbf38"
+    },
+    {
+      "path": "references/tiles.md",
+      "sha256": "0ecd99bb3f7b33148a3fed1d06c5fa3d6ceda598c6e668b0eed99fadb09146cf"
+    },
+    {
+      "path": "references/visuals/Fundamentals1x.gif",
+      "sha256": "61216c8a0effdf203ff41640a3ea842dd3d7988eb303187a4a3cf6b06db9981c"
+    },
+    {
+      "path": "references/visuals/RunCycleSimple1x.gif",
+      "sha256": "4cce20bf3ed769a4a7fa00bbd6ee8178d0e08e9d1635e3db1c9f6a5fecd6f2ce"
+    },
+    {
+      "path": "references/visuals/Shading1x.gif",
+      "sha256": "45399215572acc2dbebf856114d52e4e4ed976af7eca707872a203612cfe3cad"
+    },
+    {
+      "path": "references/visuals/Tiles1x.gif",
+      "sha256": "dc27d6b04a8fec106e460817eb65abcb8cbd6c0e1572c0ae61e8584920690820"
+    }
+  ]
+}

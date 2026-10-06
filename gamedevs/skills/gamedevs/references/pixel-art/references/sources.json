@@ -1,0 +1,61 @@
+{
+  "author": "Pedro Medeiros / Saint11",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "revision": "ce1393eb2c46441d917134a9fd52e15575ee10a7",
+  "retrieved": "2026-10-02",
+  "files": [
+    {
+      "path": "visuals/Fundamentals1x.gif",
+      "source": "https://github.com/saint11/Saint11Tutorials/blob/ce1393eb2c46441d917134a9fd52e15575ee10a7/Fundamentals1x.gif",
+      "gitBlobSha1": "e15a72d83d725c26208e516fa67c928819a4022e",
+      "bytes": 597312,
+      "changes": "None; original bytes retained",
+      "sha256": "61216c8a0effdf203ff41640a3ea842dd3d7988eb303187a4a3cf6b06db9981c",
+      "dimensions": [
+        256,
+        256
+      ],
+      "frames": 70
+    },
+    {
+      "path": "visuals/RunCycleSimple1x.gif",
+      "source": "https://github.com/saint11/Saint11Tutorials/blob/ce1393eb2c46441d917134a9fd52e15575ee10a7/RunCycleSimple1x.gif",
+      "gitBlobSha1": "af539c1d66da1d980858eb5e045d1a361a2de84d",
+      "bytes": 431509,
+      "changes": "None; original bytes retained",
+      "sha256": "4cce20bf3ed769a4a7fa00bbd6ee8178d0e08e9d1635e3db1c9f6a5fecd6f2ce",
+      "dimensions": [
+        512,
+        512
+      ],
+      "frames": 32
+    },
+    {
+      "path": "visuals/Shading1x.gif",
+      "source": "https://github.com/saint11/Saint11Tutorials/blob/ce1393eb2c46441d917134a9fd52e15575ee10a7/Shading1x.gif",
+      "gitBlobSha1": "85c47bed2437ed9429ec83732c37d036e0c0bc77",
+      "bytes": 260824,
+      "changes": "None; original bytes retained",
+      "sha256": "45399215572acc2dbebf856114d52e4e4ed976af7eca707872a203612cfe3cad",
+      "dimensions": [
+        256,
+        256
+      ],
+      "frames": 27
+    },
+    {
+      "path": "visuals/Tiles1x.gif",
+      "source": "https://github.com/saint11/Saint11Tutorials/blob/ce1393eb2c46441d917134a9fd52e15575ee10a7/Tiles1x.gif",
+      "gitBlobSha1": "3a205fc95a8e938213885923bae32062a405230f",
+      "bytes": 366139,
+      "changes": "None; original bytes retained",
+      "sha256": "dc27d6b04a8fec106e460817eb65abcb8cbd6c0e1572c0ae61e8584920690820",
+      "dimensions": [
+        256,
+        256
+      ],
+      "frames": 38
+    }
+  ]
+}

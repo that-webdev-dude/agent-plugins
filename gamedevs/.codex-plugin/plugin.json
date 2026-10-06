@@ -1,0 +1,6 @@
+{
+  "name": "gamedevs",
+  "version": "0.1.1",
+  "description": "A small game-development team with concept, art and playable-slice approvals, engine blocker handling, and local delivery.",
+  "skills": "./skills/"
+}

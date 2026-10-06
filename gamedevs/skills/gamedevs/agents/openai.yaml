@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gamedevs"
+  short_description: "Build a small game with a coordinated agent team"
+  default_prompt: "Use $gamedevs to turn my idea into a locally playable game with concept, art, and playable-slice approvals."

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "phase": "CONCEPT",
+  "status": "ACTIVE",
+  "brief": {
+    "idea": null,
+    "engine": { "name": null, "versionOrRevision": null, "repository": null },
+    "target": null,
+    "desktopOS": null,
+    "intent": null,
+    "requiredCapabilities": [],
+    "scope": [],
+    "exclusions": [],
+    "resourceLimits": null
+  },
+  "approvals": { "concept": null, "art": null, "slice": null },
+  "artifacts": {},
+  "remainingWork": [],
+  "evidence": [],
+  "blocker": null,
+  "nextAction": null
+}
