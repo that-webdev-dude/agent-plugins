@@ -1,0 +1,12 @@
+{
+  "name": "agent-plugins",
+  "interface": { "displayName": "Agent Plugins" },
+  "plugins": [
+    {
+      "name": "gamedevs",
+      "source": { "source": "local", "path": "./gamedevs" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
