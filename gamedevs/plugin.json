@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gamedevs",
-  "version": "0.1.1",
-  "description": "A small game-development team with concept, art and playable-slice approvals, engine blocker handling, and local delivery."
+  "version": "0.2.0",
+  "description": "A game-development team with owner interview rounds, an approved contract, roadmap, implementation tickets and prompts, art and playable-slice approvals, and local delivery."
 }

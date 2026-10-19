@@ -4,7 +4,7 @@ The delivery lead writes `GAMEDEV-REPORT.md` in the game project after successfu
 
 ## Delivery
 
-Summarize the delivered game, adopted engine and exact version/revision, target, artifact and launch instructions, actual verification and material limitations. Distinguish automated checks, observed runtime behavior and human approval. Reference existing evidence instead of repeating logs or rerunning tests.
+Summarize the delivered game, approved contract revision, adopted engine and exact version/revision, target, artifact and launch instructions, actual requirement coverage and material limitations. Link the contract/roadmap and reuse ticket evidence rather than duplicating their contents. Distinguish automated checks, observed runtime behavior and human approval. Reference existing evidence instead of repeating logs or rerunning tests. For a legacy completed run without a contract, identify the actual approved brief/evidence and disclose that baseline; do not fabricate a contract or reopen planning just to write this report.
 
 ## Optional engine improvements
 

@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "phase": "CONCEPT",
+  "schemaVersion": 2,
+  "phase": "PLANNING",
   "status": "ACTIVE",
   "brief": {
     "idea": null,
@@ -13,7 +13,18 @@
     "exclusions": [],
     "resourceLimits": null
   },
-  "approvals": { "concept": null, "art": null, "slice": null },
+  "planning": {
+    "round": 0,
+    "pendingQuestions": [],
+    "unresolvedDecisions": [],
+    "provisionalDecisions": [],
+    "contractRevision": null,
+    "approvedContractRevision": null,
+    "resume": null,
+    "nextTicket": null
+  },
+  "approvals": { "contract": null, "art": null, "slice": null },
+  "approvalHistory": [],
   "artifacts": {},
   "remainingWork": [],
   "evidence": [],

@@ -6,7 +6,7 @@ Use this when a required engine capability is missing or a reproducible engine d
 
 The lead records `BLOCKED_ENGINE`, the interrupted phase and:
 
-- required capability and its connection to the approved game or exercise;
+- required capability, contract requirement/ticket IDs and its connection to the approved game or exercise;
 - engine version/revision and relevant environment;
 - minimal reproduction or concrete API/documentation evidence;
 - expected versus actual behavior and affected work;
@@ -14,7 +14,7 @@ The lead records `BLOCKED_ENGINE`, the interrupted phase and:
 
 Stop new dependent dispatch and interrupt active dependent tasks. Collect partial work without allowing changes that assume the missing capability exists. Complete only already-bounded independent work that will remain useful, then notify the user and end the turn. Do not poll indefinitely or create monitoring automatically.
 
-In game-delivery mode, propose a simpler alternative if it preserves the approved experience. In engine-exercise mode, the named engine behavior is itself a requirement: do not replace it with consumer code, a stub or another engine. Neither mode authorizes engine edits or dropping explicit requirements. A blocker is useful evidence, not a completed game.
+In game-delivery mode, propose a simpler alternative if it preserves the approved experience. If it changes scope or acceptance, follow the [contract amendment process](game-planning.md) before affected work resumes. In engine-exercise mode, the named engine behavior is itself a requirement: do not replace it with consumer code, a stub or another engine. Neither mode authorizes engine edits or dropping explicit requirements. A blocker is useful evidence, not a completed game.
 
 ## Optional GitHub issue
 
